@@ -6,7 +6,7 @@ Follow these steps to connect to a Ubuntu Linux computer if you are using either
 2. Connect to NYU Abu Dhabi VPN (if you are off campus)
 3. Launch VNC Viewer. In "Enter the VNC Server Address", add the IP address sent to you by the NYU Academic Technology Support. It should look like 10.124.2.56:4 (but a different number for you)
 4. If it says “The connection to this VNC Server will not be encrypted”, click Continue
-5. Password is test12
+5. Password is test123
 6. Once you see the Ubuntu Linux screen, you can begin working.
 
 
