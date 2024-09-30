@@ -16,6 +16,7 @@ Download the game by typing in the terminal. Use Ubuntu 24.04 (via VNC Viewer if
 wget https://github.com/Pi-31415/CPE-GAME/raw/main/CPE.zip
 ```
 
+Extract. There should be 3 files - game, hacking_functions.cpp and hacking_functions.h.
 
 ```
 sudo chmod +x ./game
