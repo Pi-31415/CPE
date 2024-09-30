@@ -17,4 +17,8 @@ wget https://github.com/Pi-31415/CPE-GAME/raw/main/CPE.zip
 ```
 
 
+```
+sudo chmod +x ./game
+```
+
 add executable command
