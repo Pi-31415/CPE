@@ -16,6 +16,7 @@ Download the game by typing in the terminal. Use Ubuntu 24.04 (via VNC Viewer if
 wget https://github.com/Pi-31415/CPE-GAME/raw/main/CPE.zip
 ```
 
+Extract.
 
 ```
 sudo chmod +x ./game
